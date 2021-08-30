@@ -6,17 +6,17 @@ export default function Menu() {
     <div className="content-menu">
       <nav>
         <ul className="menu">
-          <li>Nacional</li>
-          <li>Business</li>
-          <li>Internacional</li>
-          <li>Saúde</li>
-          <li>Tecnologia</li>
-          <li>Esporte</li>
-          <li>Entretenimento</li>
-          <li>Estilo</li>
-          <li>Viagem & Gastronomia</li>
-          <li>Newsletters</li>
-          <li>Podcasts</li>
+          <li><a href="#">Nacional</a></li>
+          <li><a href="#">Business</a></li>
+          <li><a href="#">Internacional</a></li>
+          <li><a href="#">Saúde</a></li>
+          <li><a href="#">Tecnologia</a></li>
+          <li><a href="#">Esporte</a></li>
+          <li><a href="#">Entretenimento</a></li>
+          <li><a href="#">Estilo</a></li>
+          <li><a href="#">Viagem & Gastronomia</a></li>
+          <li><a href="#">Newsletters</a></li>
+          <li><a href="#">Podcasts</a></li>
         </ul>
       </nav>
     </div>

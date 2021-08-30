@@ -13,3 +13,12 @@
   padding: 15px 0 15px 0;
   color: aliceblue;
 }
+
+a {
+  text-decoration: none;
+  color: #ece9e9;
+}
+
+.menu li a:hover {
+  color: #fff;
+}

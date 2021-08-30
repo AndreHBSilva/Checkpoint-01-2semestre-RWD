@@ -9,8 +9,8 @@ export default function Header() {
   return(
     <header>
       <div className="header-group">
-        <div className="header-main">
           <Menu />
+        <div className="header-main">
           <Title />
           <Subtitle />
         </div>

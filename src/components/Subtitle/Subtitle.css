@@ -1,4 +1,19 @@
-.cnn__logo {
-  width: 130px;
-  height: 87px;
+.post__data {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  color: #4D4D4D;
+  font-style: normal;
+}
+
+.post__excerpt {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #4d4d4d;
+}
+
+.author__image {
+  margin: 0;
 }

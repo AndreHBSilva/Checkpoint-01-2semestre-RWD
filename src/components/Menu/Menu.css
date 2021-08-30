@@ -22,3 +22,7 @@ a {
 .menu li a:hover {
   color: #fff;
 }
+
+.menu li.active {
+  font-weight: bold;
+}

@@ -9,7 +9,7 @@ export default function Menu() {
           <li><a href="#">Nacional</a></li>
           <li><a href="#">Business</a></li>
           <li><a href="#">Internacional</a></li>
-          <li><a href="#">Saúde</a></li>
+          <li className="active"><a href="#">Saúde</a></li>
           <li><a href="#">Tecnologia</a></li>
           <li><a href="#">Esporte</a></li>
           <li><a href="#">Entretenimento</a></li>
